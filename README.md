@@ -15,13 +15,17 @@ This Project helps students, faculty, and visitors navigate the college campus a
 </ul>
 
 <h2>📷 Demo</h2>
-<p><em>(Insert images or GIFs of the system in action)</em></p>
+<p><em>
+  <img src="NavigationSystemElements/Images/Campus.jpg" width="350" title="Campus">
+</em></p>
 <ul>
   <li>Screenshot of the main interface.</li>
   <li>Example of a path being displayed.</li>
 </ul>
-<p><em>(Insert images or GIFs of the system in action)</em></p>
+<p><em>
+  <img src="NavigationSystemElements/Images/ABGroundFloor.jpg" width="350" title="AB Ground Floor">
+</em></p>
 <ul>
-  <li>Screenshot of floor 1 of AB interface.</li>
+  <li>Screenshot of AB Ground Floor interface.</li>
   <li>Example of a path being displayed.</li>
 </ul>
