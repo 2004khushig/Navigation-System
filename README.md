@@ -81,7 +81,7 @@ Smart-Navigation-System/
 <ol>
   <li><b>Clone the repository:</b>
     <pre>
-git clone https://github.com/Deeks779/Smart-Navigation-System.git
+git clone https://github.com/2004khushig/Smart-Navigation-System.git
 cd Smart-Navigation-System
     </pre>
   </li>
@@ -131,14 +131,7 @@ jupyter lab
   <li>Open a pull request.</li>
 </ol>
 
-<h2>✒️ Team Members</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/deeksha-kushwaha">Deeksha Kushwaha [Leader]</a></li>
-  <li>Rujula Malhotra</li>          
-  <li>Anwesha Chatterjee</li>    
-  <li>Arunanshi Kaushish</li>  
-  <li>Khushi Gupta </li>
-</ul>
+
 
 <h2>📜 License</h2>
 <p>
